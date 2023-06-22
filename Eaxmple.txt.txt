@@ -1,6 +1,6 @@
 class Example{
 public satic void main (String []args)
 {
-Syustem.out.println("i love u pandhi bngrm.....bujji kanna.....chitti kannaa......umhaaaaa.......umhaaaaaa.....");
+Syustem.out.println("Welcome To AdTech carrer Solution");
 }
 }
